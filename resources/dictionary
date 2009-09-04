@@ -143,3 +143,7 @@ dn
 standalone
 apachemeta
 subentry
+namespaces
+unbind
+var
+lifecycle
